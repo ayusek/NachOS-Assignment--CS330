@@ -1,0 +1,143 @@
+Dequeuer 0: waiting on queue empty.
+Enqueuer 0: Inserted 0 in slot 0
+Dequeuer 0: Got 0 from slot 0
+Enqueuer 0: Inserted 1 in slot 1
+Enqueuer 1: Inserted 10 in slot 2
+Dequeuer 0: Got 1 from slot 1
+Enqueuer 2: Inserted 20 in slot 3
+Enqueuer 3: Inserted 30 in slot 4
+Enqueuer 0: Inserted 2 in slot 5
+Enqueuer 1: Inserted 11 in slot 6
+Dequeuer 0: Got 10 from slot 2
+Enqueuer 2: Inserted 21 in slot 7
+Enqueuer 3: Inserted 31 in slot 8
+Enqueuer 0: Inserted 3 in slot 9
+Enqueuer 1: Inserted 12 in slot 0
+Dequeuer 0: Got 20 from slot 3
+Enqueuer 2: Inserted 22 in slot 1
+Enqueuer 3: Inserted 32 in slot 2
+Enqueuer 0: Inserted 4 in slot 3
+Enqueuer 1: waiting on queue full.
+Dequeuer 0: Got 30 from slot 4
+Enqueuer 1: Inserted 13 in slot 4
+Enqueuer 3: waiting on queue full.
+Enqueuer 0: waiting on queue full.
+Enqueuer 2: waiting on queue full.
+Dequeuer 0: Got 2 from slot 5
+Enqueuer 3: Inserted 33 in slot 5
+Enqueuer 1: waiting on queue full.
+Dequeuer 0: Got 11 from slot 6
+Enqueuer 3: waiting on queue full.
+Enqueuer 0: Inserted 5 in slot 6
+Dequeuer 0: Got 21 from slot 7
+Enqueuer 0: waiting on queue full.
+Enqueuer 2: Inserted 23 in slot 7
+Dequeuer 0: Got 31 from slot 8
+Enqueuer 2: waiting on queue full.
+Enqueuer 1: Inserted 14 in slot 8
+Dequeuer 0: Got 3 from slot 9
+Enqueuer 1: waiting on queue full.
+Enqueuer 3: Inserted 34 in slot 9
+Dequeuer 0: Got 12 from slot 0
+Enqueuer 3: waiting on queue full.
+Enqueuer 0: Inserted 6 in slot 0
+Dequeuer 0: Got 22 from slot 1
+Enqueuer 0: waiting on queue full.
+Enqueuer 2: Inserted 24 in slot 1
+Dequeuer 0: Got 32 from slot 2
+Enqueuer 2: waiting on queue full.
+Enqueuer 1: Inserted 15 in slot 2
+Dequeuer 0: Got 4 from slot 3
+Enqueuer 1: waiting on queue full.
+Enqueuer 3: Inserted 35 in slot 3
+Dequeuer 0: Got 13 from slot 4
+Enqueuer 3: waiting on queue full.
+Enqueuer 0: Inserted 7 in slot 4
+Dequeuer 0: Got 33 from slot 5
+Enqueuer 0: waiting on queue full.
+Enqueuer 2: Inserted 25 in slot 5
+Dequeuer 0: Got 5 from slot 6
+Enqueuer 2: waiting on queue full.
+Enqueuer 1: Inserted 16 in slot 6
+Dequeuer 0: Got 23 from slot 7
+Enqueuer 1: waiting on queue full.
+Enqueuer 3: Inserted 36 in slot 7
+Dequeuer 0: Got 14 from slot 8
+Enqueuer 3: waiting on queue full.
+Enqueuer 0: Inserted 8 in slot 8
+Dequeuer 0: Got 34 from slot 9
+Enqueuer 0: waiting on queue full.
+Enqueuer 2: Inserted 26 in slot 9
+Dequeuer 0: Got 6 from slot 0
+Enqueuer 2: waiting on queue full.
+Enqueuer 1: Inserted 17 in slot 0
+Dequeuer 0: Got 24 from slot 1
+Enqueuer 1: waiting on queue full.
+Enqueuer 3: Inserted 37 in slot 1
+Dequeuer 0: Got 15 from slot 2
+Enqueuer 3: waiting on queue full.
+Enqueuer 0: Inserted 9 in slot 2
+Dequeuer 0: Got 35 from slot 3
+Enqueuer 2: Inserted 27 in slot 3
+Dequeuer 0: Got 7 from slot 4
+Enqueuer 2: waiting on queue full.
+Enqueuer 1: Inserted 18 in slot 4
+Dequeuer 0: Got 25 from slot 5
+Enqueuer 1: waiting on queue full.
+Enqueuer 3: Inserted 38 in slot 5
+Dequeuer 0: Got 16 from slot 6
+Enqueuer 3: waiting on queue full.
+Enqueuer 2: Inserted 28 in slot 6
+Dequeuer 0: Got 36 from slot 7
+Enqueuer 2: waiting on queue full.
+Enqueuer 1: Inserted 19 in slot 7
+Dequeuer 0: Got 8 from slot 8
+Enqueuer 3: Inserted 39 in slot 8
+Dequeuer 0: Got 26 from slot 9
+Dequeuer 0: Got 17 from slot 0
+Enqueuer 2: Inserted 29 in slot 9
+Dequeuer 0: Got 37 from slot 1
+Dequeuer 0: Got 9 from slot 2
+Dequeuer 0: Got 27 from slot 3
+Dequeuer 0: Got 18 from slot 4
+Dequeuer 0: Got 38 from slot 5
+Dequeuer 0: Got 28 from slot 6
+Dequeuer 0: Got 19 from slot 7
+Dequeuer 0: Got 39 from slot 8
+Dequeuer 0: Got 29 from slot 9
+Parent joined with 1 having exit code 20
+Parent joined with 2 having exit code 10
+Parent joined with 3 having exit code 10
+Parent joined with 4 having exit code 10
+Parent joined with 5 having exit code 10
+[pid 0] Before sleep in JoinWithChild.
+[pid 2]: Exit called. Code: 10
+[pid 3]: Exit called. Code: 10
+[pid 5]: Exit called. Code: 10
+[pid 4]: Exit called. Code: 10
+[pid 1]: Exit called. Code: 20
+[pid 0] After sleep in JoinWithChild.
+[pid 0]: Exit called. Code: 0
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting!
+
+Ticks: total 820862, idle 744537, system 57690, user 18635
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 3731
+Paging: faults 803
+Network I/O: packets received 0, sent 0
+
+Total simulated ticks: 820862
+Total CPU busy time: 76325
+Non-zero CPU burst statistics: count: 4543, max: 215, min: 8, mean: 16.80
+Number of context switches through yield or preemption: 20, Number of non-preemptive context switches: 4523
+Total time for which the ready queue is empty: 744537
+Wait time in ready queue: Total: 11375, Average: 1895.83
+
+Total number of page-faults created due to shared memory request: 1
+Total number of page-faults: 803
+Completion time statistics for all threads: Max: 820862, Min: 646242, Avg: 747634.69, Variance: 2061814784.00
+
+Cleaning up...

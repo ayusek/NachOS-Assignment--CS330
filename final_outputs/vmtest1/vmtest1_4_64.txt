@@ -1,0 +1,25 @@
+Total sum: 0
+[pid 0]: Exit called. Code: 0
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting!
+
+Ticks: total 3181692, idle 1778745, system 110410, user 1292537
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 13
+Paging: faults 1666
+Network I/O: packets received 0, sent 0
+
+Total simulated ticks: 3181692
+Total CPU busy time: 1402947
+Non-zero CPU burst statistics: count: 9375, max: 296, min: 10, mean: 149.65
+Number of context switches through yield or preemption: 7696, Number of non-preemptive context switches: 1679
+Total time for which the ready queue is empty: 1778745
+Wait time in ready queue: Total: 0, Average: 0.00
+
+Total number of page-faults created due to shared memory request: 0
+Total number of page-faults: 1666
+Completion time statistics for all threads: Max: 3181692, Min: 3181692, Avg: 3181692.00, Variance: 0.00
+
+Cleaning up...

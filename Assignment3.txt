@@ -1,0 +1,290 @@
+In this assignment, you will implement six system calls related to semaphores and condition variables.
+You will also implement a demand-paged virtual memory and a few page replacement algorithms. You will test 
+your implementations by writing a few test programs.
+
+Download cs330assignment3.zip and unzip it in your home directory. This will create a new directory
+named cs330assignment3/ and place my version of NachOS under it.
+
+You should compile and run NachOS only from the nachos/code/userprog/ directory. You should run NachOS as
+follows.
+
+> ./nachos -rs s -A n -P p -x ../test/executablename
+
+The -rs option makes the timer yields happen at random points in time. Here s is a randomization 
+seed (an integer). If you use different seeds in different runs, the preemption points will be different.
+Use zero as the seed value (i.e., -rs 0) for reporting all your results. This is important because
+changing the seed value may change the results slightly leading to potential confusion in grading. However,
+feel free to experiment with other seed values, but do not report these results. Your implementation 
+should run without any error for arbitrary seed values. Here n is an integer from the set {1, 2, 3, 4} 
+and p is an integer between 0 and 100 (both ends inclusive). The value of n determines the chosen 
+scheduling algorithm and the value of p determines the base priority of the thread. The four scheduling 
+algorithms are defined in nachos/code/threads/system.h. The quantum used by algorithms 3 and 4 are 
+defined as SCHED_QUANTUM in nachos/code/threads/system.h. You will use algorithm 3 (round robin) for 
+most parts of this assignment, unless specified otherwise. Set both SCHED_QUANTUM and TimerTicks to 100. 
+The -P flag is optional unless n is chosen to be 4. You should specify 3 for n, unless you are asked to do otherwise.
+
+In the following, I will discuss the steps involved in this assignment.
+
+1. Implementing shared memory
+------------------------------
+
+For testing synchronization primitives, it is necessary to allow the threads to share memory because
+the synchronization primitives protect shared memory variables. To implement shared memory, I have
+introduced a new system call in nachos/code/userprog/syscall.h. This system call is syscall_ShmAllocate.
+The corresponding function that the user programs can use is also declared: sys_ShmAllocate(). This function
+takes the size of the shared memory to allocate in bytes and returns the starting virtual address of
+the shared memory region. You need to use it in the following way in your test programs. Make sure to
+allocate all shared memory before invoking any sys_Fork(). Suppose you have two integers that you want to
+share across the parent and the child.
+
+int main () {
+...
+int *array = (int*)sys_ShmAllocate(2*sizeof(int));
+
+/* Now you can use array[0] and array[1] as the two shared variables. */
+
+}
+
+You can make multiple calls to sys_ShmAllocate to allocate different types of shared memory regions e.g.,
+int, unsigned, char, etc.. Your task is to implement the syscall_ShmAllocate system call in
+nachos/code/userprog/exception.cc. This system call should do the following.
+
+It should allocate a new page table for the caller with number of entries equal to the number of 
+current entries plus the number of pages needed to cover the requested shared memory region size. 
+It will copy the existing page table entries from the old page table into the new one. It will 
+also allocate physical pages for the shared memory region and set up the virtual to physical maps 
+for these pages in the remaining entries of the new page table. You have to introduce a shared 
+field in the TranslationEntry class defined in nachos/code/machine/translate.h to remember which 
+pages are shared. On a sys_Fork() call, the virtual to physical maps of the shared pages are just 
+copied from the parent to child's page table and no new physical pages would be allocated for these 
+pages; otherwise sys_Fork() works as already implemented. The syscall_ShmAllocate system call 
+returns the starting virtual address of the first shared page within the range of allocated shared 
+pages. Remember to free the old page table of the caller and set the pageTable and pageTableSize fields 
+in the Machine class correctly.
+
+2. Implementing semaphores
+---------------------------
+
+NachOS already has a complete implementation of counting semaphores. See nachos/code/threads/synch.h and
+nachos/code/threads/synch.cc. For allowing user access to the semaphores from the test programs,
+you need to implement three new system calls so that the user programs can make use of
+the semaphores. These new system calls are defined in nachos/code/userprog/syscall.h and they are 
+called syscall_SemGet, syscall_SemOp, and syscall_SemCtl. The corresponding user calls are 
+sys_SemGet(), sys_SemOp(), and sys_SemCtl(). These functions are also declared in 
+nachos/code/userprog/syscall.h. The sys_SemGet() function takes a semaphore key and returns a 
+semaphore id. If no semaphore exists with the passed key, a new semaphore is allocated and its id 
+is returned. Internally, you should maintain a mapping between semaphore keys and semaphore ids. 
+Each semaphore id corresponds to a unique semaphore. Assume some maximum allowable number of 
+semaphores. The sys_SemOp() function takes a semaphore id and an integer signifying the adjustment 
+to be applied to the semaphore value. For example, a traditional wait() function would pass -1 for 
+the second parameter, while the signal function would pass 1 for the second parameter. For this 
+assignment, it is enough to support just two values for the second parameter: 1 and -1. The 
+sys_SemCtl() function takes three arguments. The first one is the semaphore id, the second one 
+is the command (can be one of three: SYNCH_REMOVE, SYNCH_GET, and SYNCH_SET), and the third 
+argument is an integer pointer used to return the semaphore value if the command is SYNCH_GET. 
+The function returns 0 if the system call completes properly; otherwise it returns -1. The three 
+commands are defined in nachos/code/threads/synchop.h. You should include synchop.h in 
+all test programs that use the sys_SemCtl() function. The SYNCH_REMOVE command deletes the semaphore 
+and frees the semaphore table entry. In this case, the third argument can be NULL. The SYNCH_GET 
+command returns the value of the semaphore in the third argument. The SYNCH_SET command sets the 
+value of the semaphore to the value of the integer whose address is passed as the third argument. 
+The Semaphore class of NachOS does not have any interface method for querying or setting the value 
+of a semaphore. You will have to incorporate these two methods in the Semaphore class.
+
+Your task is to implement the three system calls in nachos/code/userprog/exception.cc, write test 
+programs that exercise semaphores (remember to modify the Makefile in the nachos/code/test/ directory 
+appropriately), and verify that your implementations are correct. You can use the synchronization problems 
+discussed and demonstrated in the class as your test cases.
+
+3. Implementing condition variables
+------------------------------------
+
+NachOS has defined a Condition class in nachos/code/threads/synch.h, but does not implement the interface
+methods. Your task is to first complete this implementation. Your implementation should use the signal and
+continue protocol in the Signal and Broadcast methods. Condition variables are objects of type Condition.
+The current declarations of Wait, Signal, and Broadcast methods in the Condition class take a Lock pointer.
+Declare a new set of overloaded methods Wait, Signal, and Broadcast that you will implement. The Wait method
+should take a Semaphore pointer so that you can use the Semaphore implementation for protecting
+the condition variables and other related shared variables. The Signal and Broadcast methods need not have
+any argument. Please remember to retain the existing declarations of Wait, Signal, and Broadcast methods, but
+you need not implement these. This is to make sure that NachOS continues to compile cleanly.
+
+I have defined three new system calls in nachos/code/userprog/syscall.h related to condition variables. 
+These are syscall_CondGet, syscall_CondOp, and syscall_CondRemove. The corresponding user functions are 
+also declared: sys_CondGet(), sys_CondOp(), and sys_CondRemove(). The sys_CondGet() function takes a key 
+and returns a condition variable id. If no condition variable exists with the passed key, a new condition 
+variable is allocated and its id is returned. Internally, you should maintain a mapping between condition 
+variable keys and condition variable ids. Each condition variable id corresponds to a unique condition 
+variable. The sys_CondOp() function takes a condition variable id, an integer specifying the operation to 
+be applied on the condition variable, and the id of the semaphore protecting the condition variable. The 
+operations that can be passed as the second argument are defined in nachos/code/threads/synchop.h. These 
+are COND_OP_WAIT, COND_OP_SIGNAL, and COND_OP_BROADCAST. You should include synchop.h in all test programs 
+that use the sys_CondOp() function. The sys_CondRemove() function takes a condition variable id and deletes 
+the condition variable freeing the condition variable id. The function returns zero on successful deletion; 
+otherwise it returns -1. You need to implement these three system calls in nachos/code/userprog/exception.cc, 
+write test programs that exercise condition variables (remember to modify the Makefile in the nachos/code/test/ 
+directory appropriately), and verify that your implementations are correct. You can use the synchronization 
+problems discussed and demonstrated in the class as your test cases. I have already provided one test program queue.c in the 
+nachos/code/test/ directory. This program implements the FIFO queue using semaphores and condition variables 
+as discussed in the class. Please read the comments in queue.c to understand what it does.
+
+4. Implementing demand-paged virtual memory
+--------------------------------------------
+
+The current implementation of NachOS allocates the complete address space of a thread when the 
+thread is created. This is not how realistic systems work. The entire executable may not be 
+needed by the thread at the same time. You will change the implementation such that as and when 
+the first access to a virtual page comes, we allocate the next available physical page, and register 
+this mapping in the page table entry corresponding to the virtual page. When a new test program is 
+started, the number of virtual pages is calculated from the executable file, as usual. Accordingly, 
+the page table is allocated and all entries are initialized as invalid (i.e., valid is FALSE). At 
+this point no physical page is allocated. When a virtual page is accessed for the first time, the 
+next available physical page is assigned to the virtual page, the page table entry is changed to 
+valid state, and the virtual to physical page mapping is registered in the entry. At this time, the 
+page is zeroed out and the contents of the page from the executable file are copied into the correct 
+locations of the memory array. When a thread is forked, you should, as usual, create a number of page 
+table entries equal to the number of page table entries of the parent and copy the contents of the valid 
+physical pages of the parent into child's physical pages. Beyond this point the parent and child will 
+allocate their pages on demand independently as and when accesses come. Also, change the implementation 
+of syscall_Exec appropriately. In other words, syscall_Exec will not allocate any physical page frame, 
+which will be allocated on demand as the new executable makes memory accesses. It should free the page 
+table of the caller and allocate a new one depending on the size of the new executable. It should 
+free all the physical pages belonging to the caller, except the shared ones. These pages are now available 
+for allocation to other threads. All memory accesses go through the Translate method of the Machine class. 
+This is where the page table is looked up to find the virtual to physical page mapping. When a virtual page 
+is found in an invalid state in the page table, it should be counted as a page fault, and the page fault 
+is handled by allocating the next free physical page and registering this mapping in the page table entry. 
+Your task is to detect page faults, count them, and handle them on demand. Your simulation should report 
+the number of page faults at the end. Assume a page fault latency of 1000 ticks. During this time the 
+thread undergoing the page fault must remain in BLOCKED state. Make use of the sleep queue developed in 
+the first assignment for this purpose. When the process is scheduled again, it should start execution 
+from the instruction that suffered from a page fault. In summary, the page fault needs to be modeled as a 
+restartable exception. Remember to model the page faults correctly in a sys_Fork() call i.e., the 
+caller may transition in and out of the BLOCKED state multiple times depending on the number of 
+pages to be copied. We are not modeling copy-on-write.
+
+One way to incorporate demand paging in the implementation of syscall_Fork is to run a loop over 
+the parent's page table. Each iteration i of the loop examines the entry i of parent's page table 
+and if it is valid, it allocates a physical page frame for the child. Suppose the virtual page i 
+of parent is mapped to physical page frame p. While allocating the child's page frame, it may be 
+necessary to replace a page if all page frames are occupied. You should invoke your page 
+replacement algorithm and can replace any page selected by the algorithm except the page p. The 
+reason why you cannot replace the page p of the parent should be obvious (you need to copy the
+contents of page p into the newly allocated child's page frame, so you want this page to be resident 
+in memory). Suppose the page frame allocated to the child is c. Once the contents of page frame p 
+are copied into page frame c, you should correctly update the replacement states of these two pages. 
+In other words, if the replacement policy is LRU, the page frame c should be the MRU frame and page 
+frame p should be the next MRU frame (copying involves reading from p first and then writing to c 
+making c the MRU frame and p the next MRU frame). If the replacement policy is LRU-CLOCK, the
+reference bits of both p and c should be set to 1 (or TRUE).
+
+To simplify matters, we will assume that shared pages are not allocated on demand. Instead, the 
+syscall_ShmAllocate call allocates all the necessary shared physical pages. These should be counted 
+as page faults, but no latency should be charged i.e., the caller will just continue executing. This 
+is because there is usually nothing to be copied from the disk at the time of allocating a shared 
+physical page.
+
+Handling page faults inside system calls involves one additional step. These page faults arise when a 
+system call handler invokes ReadMem or WriteMem on a virtual address which is not yet present in the 
+physical memory. In the case of a page fault, the ReadMem and WriteMem methods return FALSE. Depending 
+on the return value of these methods, you may have to keep retrying the ReadMem or WriteMem until you 
+get a return value of TRUE.
+
+A situation may arise where all the physical pages are currently occupied and a thread undergoes a 
+page fault. This can happen if NumPhysPages is less than the requirement of all the threads. In 
+this case, you have to select one physical page for replacement, whose contents will now be overwritten 
+by the new page. You will implement four replacement policies, namely, Random, FIFO, LRU, and LRU-CLOCK, 
+and evaluate the number of page faults returned by each. Also, at the time of replacing a page, you need 
+to do the following things. To simplify matters, we will ensure that shared pages are never considered 
+for replacement.
+
+Find out the corresponding page table entry and change its state to invalid. If the page table 
+entry is in dirty state (happens if the page is modified by the running program), you have to back 
+up the contents of the replaced page so that when the page is needed later, it can be loaded back 
+correctly. For this purpose, you will allocate a character array (just like the memory array) per 
+thread when a thread is created. The length of the array should be equal to the number of virtual 
+pages in the executable multiplied by the page size. When a page is replaced, its contents are 
+stored in the corresponding locations of this array. Now, at the time of a page fault, you need to 
+know if the contents of the page should be loaded from the executable file or the backup array. 
+Introduce a new field in the page table entry for this purpose. Initialize this at the time of 
+thread creation to mention that the page should be loaded from the executable file. When a 
+page is replaced, change the field to mention that it should be loaded from the backup array on 
+the next fault for this page. Finding the page table entry corresponding to a replaced page may 
+be tedious. Think of data structures that can accelerate this.
+
+Notice that our demand-paged virtual memory model is a highly simplified version of the reality. 
+We do not model a disk or a swap space. The backup array serves the purpose of the next level storage.
+
+HINT: First, run with a large physical memory i.e., set NumPhysPages to a large value so 
+that a page replacement would never be needed and ensure that demand paging works correctly. 
+Next, reduce NumPhysPages and test your page replacement algorithms. Make sure to test your 
+demand-paged virtual memory system on programs involving sys_Fork(), sys_Exec(), and shared memory.
+
+For the test programs that do not use sys_Fork() or shared memory, your
+implementation should run correctly with just two pages (one page to keep
+the current instruction and another page for data). However, your
+patience will be tested here because these simulations may take a long time.
+For example, the vectorsum program on my implementation takes about three
+minutes with two frames and random replacement. The programs that use sys_Fork()
+and create multiple threads will require at least two pages per thread.
+The programs that use share memory will require additional number of pages
+to accommodate the shared pages, which can never be replaced as per our design.
+
+Introduce a new command line flag -R followed by an integer from {1, 2, 3, 4} for specifying 
+the page replacement algorithm according to the following list.
+
+1. Random
+2. FIFO
+3. LRU
+4. LRU-CLOCK
+
+If this flag is not specified, the simulator should fall back to the demand-paged 
+virtual memory system with large enough physical memory so that page replacement need
+not be invoked. This flag should be used as follows, where r belongs to the set {1, 2, 3, 4}.
+
+> ./nachos -rs s -A n -P p -R r -x ../test/executablename
+
+WHAT TO SUBMIT
+---------------
+
+Report the number of page faults and the total number of ticks needed to complete 
+the execution for each of the following three programs provided in the nachos/code/test/
+directory: vmtest1, vmtest2, queue using each of the four page replacement policies.
+For vmtest1 and vmtest2, report the statistics for the following six values of 
+NumPhysPages: 16, 32, 64, 128, 256, 512. For queue, report the statistics for the
+following four values of NumPhysPages: 16, 32, 64, 128. Prepare one table for each of the
+three applications. Remember that these results should be collected with randomization 
+seed zero (i.e., -rs 0) and round-robin scheduling (i.e., -A 3) with both SCHED_QUANTUM 
+and TimerTicks set to 100. Explain these results. Put these tables and explanations 
+along with any other comments related to the other parts of the assignment in a pdf 
+document. Name the pdf file groupX.pdf (replace X by your assigned group id).
+
+Note: One simulation of vmtest1 with NumPhysPages set to sixteen and random
+replacement policy will take around fifteen minutes. With more frames and a
+better policy, simulation time will go down. Please be prepared for this and
+start your test runs early.
+
+Execute make clean in the threads and userprog directories. Prepare the 
+submission zip ball of your machine/, threads/, and userprog/ directories. 
+Your submission at the end of simulation must print the number of page faults.
+You are welcome to provide more statistics.
+
+> cd nachos/code/
+> zip -r groupX.zip machine/ threads/ userprog/
+
+Replace X by your assigned group id. Send an email to
+cs330autumn2014@gmail.com with subject "[CS330] Assignment3" and attach
+groupX.zip and groupX.pdf to the mail. The body of the mail should contain the following
+two sentences.
+
+1. I have not copied any part of this submission from any other group.
+2. I have not helped any other group copy any part of this submission.
+
+All the members of the group should put their names and roll numbers below the
+statement.
+
+PUNISHMENT FOR CHEATING
+------------------------
+
+Members of any group found cheating or helping others cheat will be assigned an F grade in
+the course.
