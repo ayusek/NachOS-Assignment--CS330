@@ -1,0 +1,21 @@
+#include "syscall.h"
+#define OUTER_BOUND 4
+#define SIZE 100
+
+int
+main()
+{
+    int array[SIZE], i, k, sum, pid=sys_GetPID()-1;
+    unsigned start_time, end_time;
+    
+    for (k=0; k<OUTER_BOUND; k++) {
+       for (i=0; i<SIZE; i++) sum += array[i];
+       sys_PrintInt(pid);
+       sys_PrintInt(pid);
+    }
+    sys_PrintChar('\n');
+    sys_PrintString("Total sum: ");
+    sys_PrintInt(sum);
+    sys_PrintChar('\n');
+    return 0;
+}

@@ -1,0 +1,2943 @@
+hT34T44eoP33olta33tlar33aole344  n
+44wstT4lou o
+ rmPtTsl:Iaoud Dltm
+4: a:E9 sl x53u 4e0
+ms9c
+PC:u___________***starting point of the current BURST***___________
+[pid 0]: Exit called. Code: 0
+___________ End of the current BURST. The current burst is: 10 ___________
+**************************total_tick at the time of max_burst = 10 and this_burst_length was: 10**********************************
+switching from thread id 0 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 33 ___________
+**************************total_tick at the time of max_burst = 43 and this_burst_length was: 33**********************************
+helloworld
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+Current timer 110 thread 2  status 1
+Current timer 210 thread 2  status 1
+Current timer 310 thread 2  status 1
+Current timer 410 thread 2  status 1
+Current timer 510 thread 2  status 1
+Current timer 610 thread 2  status 1
+Current timer 710 thread 2  status 1
+Current timer 810 thread 2  status 1
+Current timer 910 thread 2  status 1
+Current timer 1010 thread 2  status 1
+Current timer 1110 thread 2  status 1
+Current timer 1210 thread 2  status 1
+Current timer 1310 thread 2  status 1
+Current timer 1410 thread 2  status 1
+Current timer 1510 thread 2  status 1
+Current timer 1610 thread 2  status 1
+Current timer 1710 thread 2  status 1
+Current timer 1810 thread 2  status 1
+Current timer 1910 thread 2  status 1
+Current timer 2010 thread 2  status 1
+Current timer 2110 thread 2  status 1
+Current timer 2210 thread 2  status 1
+Current timer 2310 thread 2  status 1
+Current timer 2410 thread 2  status 1
+Current timer 2510 thread 2  status 1
+Current timer 2610 thread 2  status 1
+Current timer 2710 thread 2  status 1
+Current timer 2810 thread 2  status 1
+Current timer 2910 thread 2  status 1
+Current timer 3010 thread 2  status 1
+Current timer 3110 thread 2  status 1
+Current timer 3210 thread 2  status 1
+Current timer 3310 thread 2  status 1
+Current timer 3410 thread 2  status 1
+Current timer 3510 thread 2  status 1
+Current timer 3610 thread 2  status 1
+Current timer 3710 thread 2  status 1
+Current timer 3810 thread 2  status 1
+___________ End of the current BURST. The current burst is: 3850 ___________
+**************************total_tick at the time of max_burst = 3893 and this_burst_length was: 3850**********************************
+helloworld
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+Current timer 3910 thread 3  status 1
+___________ End of the current BURST. The current burst is: 23 ___________
+helloworld
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 4010 thread 4  status 1
+Current timer 4110 thread 4  status 1
+Current timer 4210 thread 4  status 1
+Current timer 4310 thread 4  status 1
+Current timer 4410 thread 4  status 1
+Current timer 4510 thread 4  status 1
+Current timer 4610 thread 4  status 1
+Current timer 4710 thread 4  status 1
+Current timer 4810 thread 4  status 1
+Current timer 4910 thread 4  status 1
+Current timer 5010 thread 4  status 1
+Current timer 5110 thread 4  status 1
+Current timer 5210 thread 4  status 1
+Current timer 5310 thread 4  status 1
+Current timer 5410 thread 4  status 1
+Current timer 5510 thread 4  status 1
+Current timer 5610 thread 4  status 1
+Current timer 5710 thread 4  status 1
+Current timer 5810 thread 4  status 1
+Current timer 5910 thread 4  status 1
+___________ End of the current BURST. The current burst is: 2068 ___________
+helloworld
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+Current timer 6010 thread 5  status 1
+Current timer 6110 thread 5  status 1
+Current timer 6210 thread 5  status 1
+Current timer 6310 thread 5  status 1
+Current timer 6410 thread 5  status 1
+Current timer 6510 thread 5  status 1
+Current timer 6610 thread 5  status 1
+Current timer 6710 thread 5  status 1
+Current timer 6810 thread 5  status 1
+Current timer 6910 thread 5  status 1
+Current timer 7010 thread 5  status 1
+Current timer 7110 thread 5  status 1
+Current timer 7210 thread 5  status 1
+Current timer 7310 thread 5  status 1
+Current timer 7410 thread 5  status 1
+Current timer 7510 thread 5  status 1
+Current timer 7610 thread 5  status 1
+Current timer 7710 thread 5  status 1
+Current timer 7810 thread 5  status 1
+Current timer 7910 thread 5  status 1
+Current timer 8010 thread 5  status 1
+___________ End of the current BURST. The current burst is: 2068 ___________
+helloworld
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+Current timer 8110 thread 6  status 1
+Current timer 8210 thread 6  status 1
+Current timer 8310 thread 6  status 1
+Current timer 8410 thread 6  status 1
+Current timer 8510 thread 6  status 1
+Current timer 8610 thread 6  status 1
+Current timer 8710 thread 6  status 1
+Current timer 8810 thread 6  status 1
+Current timer 8910 thread 6  status 1
+Current timer 9010 thread 6  status 1
+Current timer 9110 thread 6  status 1
+Current timer 9210 thread 6  status 1
+Current timer 9310 thread 6  status 1
+Current timer 9410 thread 6  status 1
+Current timer 9510 thread 6  status 1
+Current timer 9610 thread 6  status 1
+Current timer 9710 thread 6  status 1
+Current timer 9810 thread 6  status 1
+Current timer 9910 thread 6  status 1
+Current timer 10010 thread 6  status 1
+Current timer 10110 thread 6  status 1
+Current timer 10210 thread 6  status 1
+Current timer 10310 thread 6  status 1
+Current timer 10410 thread 6  status 1
+Current timer 10510 thread 6  status 1
+Current timer 10610 thread 6  status 1
+Current timer 10710 thread 6  status 1
+Current timer 10810 thread 6  status 1
+Current timer 10910 thread 6  status 1
+Current timer 11010 thread 6  status 1
+Current timer 11110 thread 6  status 1
+Current timer 11210 thread 6  status 1
+Current timer 11310 thread 6  status 1
+Current timer 11410 thread 6  status 1
+Current timer 11510 thread 6  status 1
+Current timer 11610 thread 6  status 1
+Current timer 11710 thread 6  status 1
+Current timer 11810 thread 6  status 1
+___________ End of the current BURST. The current burst is: 3850 ___________
+helloworld
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+helloworld
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+helloworld
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+helloworld
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+helloCurrent timer 11910 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+Current timer 12012 thread 5  status 1
+Current timer 12112 thread 5  status 1
+Current timer 12212 thread 5  status 1
+Current timer 12312 thread 5  status 1
+Current timer 12412 thread 5  status 1
+Current timer 12512 thread 5  status 1
+Current timer 12612 thread 5  status 1
+Current timer 12712 thread 5  status 1
+Current timer 12812 thread 5  status 1
+Current timer 12912 thread 5  status 1
+Current timer 13012 thread 5  status 1
+Current timer 13112 thread 5  status 1
+Current timer 13212 thread 5  status 1
+Current timer 13312 thread 5  status 1
+Current timer 13412 thread 5  status 1
+Current timer 13512 thread 5  status 1
+Current timer 13612 thread 5  status 1
+Current timer 13712 thread 5  status 1
+Current timer 13812 thread 5  status 1
+Current timer 13912 thread 5  status 1
+Current timer 14012 thread 5  status 1
+___________ End of the current BURST. The current burst is: 2052 ___________
+helloworld
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+helloCurrent timer 14112 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 14212 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 14312 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 14412 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 14512 thread 4  status 1
+Current timer 14612 thread 4  status 1
+Current timer 14712 thread 4  status 1
+Current timer 14812 thread 4  status 1
+Current timer 14912 thread 4  status 1
+Current timer 15012 thread 4  status 1
+Current timer 15112 thread 4  status 1
+Current timer 15212 thread 4  status 1
+Current timer 15312 thread 4  status 1
+Current timer 15412 thread 4  status 1
+Current timer 15512 thread 4  status 1
+Current timer 15612 thread 4  status 1
+Current timer 15712 thread 4  status 1
+Current timer 15812 thread 4  status 1
+Current timer 15912 thread 4  status 1
+Current timer 16012 thread 4  status 1
+Current timer 16112 thread 4  status 1
+Current timer 16212 thread 4  status 1
+Current timer 16312 thread 4  status 1
+Current timer 16412 thread 4  status 1
+Current timer 16512 thread 4  status 1
+___________ End of the current BURST. The current burst is: 2052 ___________
+helloworld
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+helloCurrent timer 16612 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 16712 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 16812 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 16912 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 17012 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 17112 thread 4  status 1
+Current timer 17212 thread 4  status 1
+Current timer 17312 thread 4  status 1
+Current timer 17412 thread 4  status 1
+Current timer 17512 thread 4  status 1
+Current timer 17612 thread 4  status 1
+Current timer 17712 thread 4  status 1
+Current timer 17812 thread 4  status 1
+Current timer 17912 thread 4  status 1
+Current timer 18012 thread 4  status 1
+Current timer 18112 thread 4  status 1
+Current timer 18212 thread 4  status 1
+Current timer 18312 thread 4  status 1
+Current timer 18412 thread 4  status 1
+Current timer 18512 thread 4  status 1
+Current timer 18612 thread 4  status 1
+Current timer 18712 thread 4  status 1
+Current timer 18812 thread 4  status 1
+Current timer 18912 thread 4  status 1
+Current timer 19012 thread 4  status 1
+Current timer 19112 thread 4  status 1
+___________ End of the current BURST. The current burst is: 2052 ___________
+helloworld
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+helloworld
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+Current timer 19217 thread 6  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 19317 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 19417 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 19517 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 19617 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 19717 thread 4  status 1
+Current timer 19817 thread 4  status 1
+Current timer 19917 thread 4  status 1
+Current timer 20017 thread 4  status 1
+Current timer 20117 thread 4  status 1
+Current timer 20217 thread 4  status 1
+Current timer 20317 thread 4  status 1
+Current timer 20417 thread 4  status 1
+Current timer 20517 thread 4  status 1
+Current timer 20617 thread 4  status 1
+Current timer 20717 thread 4  status 1
+Current timer 20817 thread 4  status 1
+Current timer 20917 thread 4  status 1
+Current timer 21017 thread 4  status 1
+Current timer 21117 thread 4  status 1
+Current timer 21217 thread 4  status 1
+Current timer 21317 thread 4  status 1
+Current timer 21417 thread 4  status 1
+Current timer 21517 thread 4  status 1
+Current timer 21617 thread 4  status 1
+___________ End of the current BURST. The current burst is: 2052 ___________
+helloworld
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+helloCurrent timer 21717 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 21817 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 21917 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+Current timer 22022 thread 2  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 22122 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 22222 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 35 ___________
+helloCurrent timer 22322 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+Current timer 22422 thread 5  status 1
+Current timer 22522 thread 5  status 1
+Current timer 22622 thread 5  status 1
+Current timer 22722 thread 5  status 1
+Current timer 22822 thread 5  status 1
+Current timer 22922 thread 5  status 1
+Current timer 23022 thread 5  status 1
+Current timer 23122 thread 5  status 1
+Current timer 23222 thread 5  status 1
+Current timer 23322 thread 5  status 1
+Current timer 23422 thread 5  status 1
+Current timer 23522 thread 5  status 1
+Current timer 23622 thread 5  status 1
+Current timer 23722 thread 5  status 1
+Current timer 23822 thread 5  status 1
+Current timer 23922 thread 5  status 1
+Current timer 24022 thread 5  status 1
+Current timer 24122 thread 5  status 1
+Current timer 24222 thread 5  status 1
+Current timer 24322 thread 5  status 1
+___________ End of the current BURST. The current burst is: 2052 ___________
+helloworld
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+helloCurrent timer 24422 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 24522 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 24622 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 24722 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 24827 thread 4  status 1
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 24927 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+Current timer 25027 thread 5  status 1
+Current timer 25127 thread 5  status 1
+Current timer 25227 thread 5  status 1
+Current timer 25327 thread 5  status 1
+Current timer 25427 thread 5  status 1
+Current timer 25527 thread 5  status 1
+Current timer 25627 thread 5  status 1
+Current timer 25727 thread 5  status 1
+Current timer 25827 thread 5  status 1
+Current timer 25927 thread 5  status 1
+Current timer 26027 thread 5  status 1
+Current timer 26127 thread 5  status 1
+Current timer 26227 thread 5  status 1
+Current timer 26327 thread 5  status 1
+Current timer 26427 thread 5  status 1
+Current timer 26527 thread 5  status 1
+Current timer 26627 thread 5  status 1
+Current timer 26727 thread 5  status 1
+Current timer 26827 thread 5  status 1
+Current timer 26927 thread 5  status 1
+___________ End of the current BURST. The current burst is: 2052 ___________
+helloworld
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+helloCurrent timer 27027 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 27127 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 27227 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 27327 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 27427 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+Current timer 27527 thread 5  status 1
+___________ End of the current BURST. The current burst is: 35 ___________
+helloworld
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+Current timer 27632 thread 6  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 27732 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 27832 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 27932 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 28032 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 28132 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 28232 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 28332 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 28432 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 28532 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 28632 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 28732 thread 4  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 28832 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 28932 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 29032 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 29132 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 29232 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 29332 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 29432 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 29532 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 29632 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 29732 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+Current timer 29832 thread 2  status 1
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 29932 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 30032 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 30132 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 30232 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 30332 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 30432 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 30532 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 30632 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 30732 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 30832 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+Current timer 30932 thread 6  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 31032 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 31132 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 31232 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 22 ___________
+helloCurrent timer 31332 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 31432 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 31532 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 31632 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 31732 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 31832 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 31932 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 32032 thread 4  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 32132 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 32232 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 32332 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 32432 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 32532 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 38 ___________
+helloworld
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 21 ___________
+helloCurrent timer 32632 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 32732 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 32832 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 32932 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 33032 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+Current timer 33132 thread 2  status 1
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 33232 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 33332 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 33432 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 33532 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 33632 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***5uEah m0txri0:
+eeel
+ EdcndS0x ut t
+e2t PaSc7eaIrtu dfDtati t: renie ttdsnr7i  ts 
+mtirtfCeinuroh:mscuri ettckl3:rit d9 uoiw'46cnoas50tsni ,starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 33732 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 33832 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 33932 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 34032 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 34132 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 34232 thread 4  status 1
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 34332 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 34432 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 34532 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 34632 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 34732 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 34832 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 34932 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 35032 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 35132 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 35232 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+Current timer 35332 thread 1  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 35432 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 35532 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 35632 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 35732 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 35832 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 35932 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 36032 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 36132 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 36232 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 36332 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 36432 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 36532 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 36632 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 36732 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 36832 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 22 ___________
+helloCurrent timer 36932 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 37032 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 37132 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 37232 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 37332 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 37432 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+Current timer 37532 thread 6  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 37632 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 37732 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 37832 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 37932 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 38032 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 38132 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 38232 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 38332 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 38432 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 38532 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+Current timer 38632 thread 3  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 38732 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 38832 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 38932 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 39032 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 39132 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 39232 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 39332 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 39432 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 39532 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 39632 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+Current timer 39732 thread 5  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 39832 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 39932 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 40032 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 40132 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 40232 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 40332 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 40432 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 40532 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 40632 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 40732 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+Current timer 40832 thread 2  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 40932 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 41032 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 22 ___________
+helloCurrent timer 41132 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 41232 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 41332 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 41432 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 41532 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 41632 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 41732 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 41832 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 41932 thread 4  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 42032 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 42132 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 42232 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 42332 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 42432 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 42532 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 42632 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 42732 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 42832 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 42932 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+Current timer 43032 thread 1  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 43132 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 43232 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 43332 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 43432 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 43532 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 43632 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 43732 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 43832 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 43932 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 44032 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 44132 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 44232 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 44332 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 44432 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 44532 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 44632 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 44732 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 44832 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 44932 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 45032 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 45132 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+Current timer 45232 thread 6  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 45332 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 45432 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 45532 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 45632 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 45732 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 45832 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 45932 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 46032 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 46132 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 46232 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+Current timer 46332 thread 3  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 46432 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 46532 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 46632 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 46732 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 46832 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 46932 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 47032 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 47132 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 47232 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 47332 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+Current timer 47432 thread 5  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 47532 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 47632 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 47732 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 47832 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 47932 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 48032 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 48132 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 48232 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 48332 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 48432 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+Current timer 48532 thread 2  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 48632 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 48732 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 48832 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 48932 thread 4  status 3
+world
+switching from thread id 4 to t1i. tp 3o
+ciaE,nonrn  ugedEcn n notfttdu:o i n rPmtt3 Iei:8cD:m 5h: e37i 2:8
+l32 5d
+227:6C7
+ 0h57,i4
+ l0Td,o  tcTaaollt latelid m tesi:lhread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 49032 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 49132 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 49232 thread 1  status 3
+world
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 49332 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 49432 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 49532 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 49632 thread 4  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 49732 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 49832 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 49932 thread 6  status 3
+world
+switching from thread id 6 to thread id 1 
+___________***starting point of the current BURST***___________
+[pid 1]: Exit called. Code: 0
+___________ End of the current BURST. The current burst is: 22 ___________
+==================================== A thread ended here. It's completion time is : 49974 ==========================================
+Current timer 50032 thread 1  status 3
+switching from thread id 1 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 50132 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 50232 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 50332 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 50432 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 50532 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 50632 thread 6  status 3
+world
+switching from thread id 6 to thread id 2 
+___________***starting point of the current BURST***___________
+Current timer 50732 thread 2  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 50832 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 50932 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 51032 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 51132 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 51232 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 51332 thread 6  status 3
+world
+switching from thread id 6 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 51432 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 51532 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 51632 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 51732 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+Current timer 51832 thread 5  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 51932 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 52032 thread 6  status 3
+world
+switching from thread id 6 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 52132 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 52232 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 52332 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 52432 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 52532 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 52632 thread 6  status 3
+world
+switching from thread id 6 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 52732 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 52832 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 52932 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 53032 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 53132 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 53232 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 53332 thread 6  status 3
+world
+switching from thread id 6 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 53432 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 53532 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 53632 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 53732 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 53832 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 53932 thread 6  status 3
+world
+switching from thread id 6 to thread id 2 
+___________***starting point of the current BURST***___________
+Current timer 54032 thread 2  status 1
+___________ End of the current BURST. The current burst is: 22 ___________
+helloCurrent timer 54132 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 54232 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 54332 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 54432 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 54532 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 54632 thread 6  status 3
+world
+switching from thread id 6 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 54732 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 54832 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 54932 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 55032 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+Current timer 55132 thread 5  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 55232 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 55332 thread 6  status 3
+world
+switching from thread id 6 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 55432 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 55532 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 55632 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 55732 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 55832 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 22 ___________
+helloCurrent timer 55932 thread 6  status 3
+world
+switching from thread id 6 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 56032 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 56132 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 56232 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 56332 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 56432 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 56532 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 56632 thread 6  status 3
+world
+switching from thread id 6 to thread id 2 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 56732 thread 2  status 3
+world
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 56832 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 22 ___________
+helloCurrent timer 56932 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 57032 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 57132 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 57232 thread 6  status 3
+world
+switching from thread id 6 to thread id 2 
+___________***starting point of the current BURST***___________
+Current timer 57332 thread 2  status 1
+[pid 2]: Exit called. Code: 0
+___________ End of the current BURST. The current burst is: 16 ___________
+==================================== A thread ended here. It's completion time is : 57338 ==========================================
+Current timer 57432 thread 2  status 3
+switching from thread id 2 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 57532 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 57632 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 57732 thread 4  status 3
+world
+switching from thread id 4 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 57832 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 57932 thread 6  status 3
+world
+switching from thread id 6 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 58032 thread 3  status 3
+world
+switching from thread id 3 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 23 ___________
+helloCurrent timer 58132 thread 7  status 3
+world
+switching from thread id 7 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 58232 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 24 ___________
+helloworld
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 58332 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+Current timer 58432 thread 6  status 1
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 58532 thread 6  status 3
+world
+switching from thread id 6 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 58632 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 58732 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 58832 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 58932 thread 5  status 3
+world
+switching from thread id 5 to thread id 6 
+___________***starting point of the current BURST***___________
+[pid 6]: Exit called. Code: 0
+___________ End of the current BURST. The current burst is: 16 ___________
+==================================== A thread ended here. It's completion time is : 58988 ==========================================
+Current timer 59032 thread 6  status 3
+switching from thread id 6 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 59132 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 59232 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 59332 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 59432 thread 5  status 3
+world
+switching from thread id 5 to thread id 3 
+___________***starting point of the current BURST***___________
+Current timer 59532 thread 3  status 1
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 59632 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 59732 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 59832 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 59932 thread 5  status 3
+world
+switching from thread id 5 to thread id 3 
+___________***starting point of the current BURST***___________
+[pid 3] Before sleep in JoinWithChild.
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 60032 thread 3  status 3
+world
+switching from thread id 3 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 60132 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 60232 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 60332 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 60432 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 60532 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+Current timer 60632 thread 5  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 60732 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 60832 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 60932 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 61032 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 61132 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 61232 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 61332 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 61432 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 61532 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 61632 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 61732 thread 4  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 61832 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 61932 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 62032 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 62132 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 62232 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 62332 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 62432 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 62532 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 62632 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 62732 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 62832 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 62932 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 63032 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 63132 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 63232 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 63332 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 63432 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 63532 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 63632 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 63732 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 63832 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+_________m ee1e:8p 3 21a15t5
+ 2t7i
+me: 58108
+Child returned from sleep at time: 58248
+Child executed 128 instructions.
+Parent executed 83 instruc__***starting point of the current BURST***___________
+Current timer 63932 thread 5  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 64032 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 20 ___________
+helloCurrent timer 64132 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 64232 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 64332 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 64432 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 64532 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 64632 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 64732 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 64832 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+Current timer 64932 thread 5  status 1
+___________ End of the current BURST. The current burst is: 20 ___________
+helloworld
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 65032 thread 4  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 65132 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 65232 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 65332 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 65432 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 65532 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 65632 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 65732 thread 4  status 3
+world
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 65832 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 65932 thread 5  status 3
+world
+switching from thread id 5 to thread id 4 
+___________***starting point of the current BURST***___________
+Current timer 66032 thread 4  status 1
+[pid 4]: Exit called. Code: 0
+___________ End of the current BURST. The current burst is: 22 ___________
+==================================== A thread ended here. It's completion time is : 66034 ==========================================
+switching from thread id 4 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 66132 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 66232 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 66332 thread 5  status 3
+world
+switching from thread id 5 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 66432 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 66532 thread 5  status 3
+world
+switching from thread id 5 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 66632 thread 7  status 3
+world
+switching from thread id 7 to thread id 5 
+___________***starting point of the current BURST***___________
+[pid 5]: Exit called. Code: 0
+___________ End of the current BURST. The current burst is: 22 ___________
+==================================== A thread ended here. It's completion time is : 66694 ==========================================
+Current timer 66732 thread 5  status 3
+switching from thread id 5 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 66832 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 66932 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 67032 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 67132 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 67232 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 67332 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 67432 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 67532 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 67632 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 67732 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 67832 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 67932 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 68032 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 68132 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 68232 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 68332 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 68432 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 68532 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 68632 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 68732 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 68832 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 68932 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 69032 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 69132 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 69232 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 69332 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 69432 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 69532 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 69632 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 69732 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 69832 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 69932 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 70032 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 70132 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 70232 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 70332 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 70432 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 70532 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 70632 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 70732 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 70832 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 70932 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 71032 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 71132 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 71232 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 71332 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 71432 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 71532 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 71632 thread 7  status 1
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 71732 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 71832 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 71932 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 72032 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 72132 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 16 ___________
+helloCurrent timer 72232 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 72332 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 72432 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 72532 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 72632 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 72732 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 72832 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 72932 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 73032 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 73132 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 73232 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 73332 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 73432 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 73532 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 73632 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 73732 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 73832 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 73932 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 22 ___________
+helloCurrent timer 74032 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 74132 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 74232 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 74332 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 74432 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 74532 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 74632 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 74732 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 74832 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 74932 thread 7  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 75032 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 75132 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 75232 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 75332 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 75432 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 75532 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 75632 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 75732 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 75832 thread 7  status 3
+world
+switching from thread id 7 to thread id 7 
+___________***starting point of the current BURST***___________
+Current timer 75932 thread 7  status 1
+[pid 7]: Exit called. Code: 0
+___________ End of the current BURST. The current burst is: 24 ___________
+==================================== A thread ended here. It's completion time is : 75936 ==========================================
+switching from thread id 7 to thread id 3 
+___________***starting point of the current BURST***___________
+[pid 3] After sleep in JoinWithChild.
+___________ End of the current BURST. The current burst is: 17 ___________
+helloworld
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+Current timer 76032 thread 3  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 76132 thread 3  status 2
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 76232 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 76332 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 76432 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 76532 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 76632 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 76732 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 76832 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 76932 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 77032 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+Current timer 77132 thread 3  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 77232 thread 3  status 2
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 77332 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 77432 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 77532 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 77632 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 22 ___________
+helloCurrent timer 77732 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 77832 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 17 ___________
+helloCurrent timer 77932 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 78032 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 78132 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+Current timer 78232 thread 3  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 78332 thread 3  status 2
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 78432 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 78532 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 78632 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 78732 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 78832 thread 3  status 3
+world
+switching from thread id 3 to threations.
+d id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 78932 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 79032 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 79132 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 79232 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+Current timer 79332 thread 3  status 1
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 79432 thread 3  status 2
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+___________ End of the current BURST. The current burst is: 10 ___________
+helloCurrent timer 79532 thread 3  status 3
+world
+switching from thread id 3 to thread id 3 
+___________***starting point of the current BURST***___________
+[pid 3]: Exit called. Code: 0
+___________ End of the current BURST. The current burst is: 22 ___________
+==================================== A thread ended here. It's completion time is : 79564 ==========================================
+
+No threads ready or runnable, and no pending interrupts.
+Assuming all programs completed.
+Machine halting!
+
+====================================================
+Total CPU busy time : 29824
+Sum of all cpu bursts : 29824
+Total execution time : 79564
+CPU utilization : 37.48
+minimum cpu burst: 10
+maximum cpu burst: 3850
+average cpu burst: 58.02
+variance of cpu burst : 120238.31
+total number of overall cpu bursts : 514
+====================================================
+
+average waiting time: 8966.00
+minimum thread completion time: 49974
+maximum thread completion time: 79564
+average thread completion time: 64932.57
+variance of thread completion: 93749174.53
+total number of threads executed: 7
+====================================================
+Ticks: total 79564, idle 49740, system 5260, user 24564
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 514
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+
+Cleaning up...

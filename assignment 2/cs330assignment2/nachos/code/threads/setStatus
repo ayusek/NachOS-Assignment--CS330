@@ -1,0 +1,21 @@
+./synch.cc:	currentThread->Sleep();
+./threadtest.cc:        currentThread->Yield();
+./main.cc:		       printf("[pid %d]: Exit called. Code: 0\n", currentThread->GetPID());
+./main.cc:		       exitThreadArray[currentThread->GetPID()] = true;
+./main.cc:		       currentThread->Exit(i==thread_index, 0);
+./main.cc:    currentThread->Finish();	// NOTE: if the procedure "main" 
+./scheduler.cc:    if (currentThread->space != NULL) {	// if this thread is a user program,
+./scheduler.cc:        currentThread->SaveUserState(); // save the user's CPU registers
+./scheduler.cc:	currentThread->space->SaveState();
+./scheduler.cc:    currentThread->setStatus(RUNNING);      // nextThread is now running
+./scheduler.cc:    DEBUG('t', "Now in thread \"%s\"\n", currentThread->getName());
+./scheduler.cc:    if (currentThread->space != NULL) {		// if there is an address space
+./scheduler.cc:        currentThread->RestoreUserState();     // to restore, do it.
+./scheduler.cc:	currentThread->space->RestoreState();
+./scheduler.cc:    if (currentThread->space != NULL) {         // if there is an address space
+./scheduler.cc:        currentThread->RestoreUserState();     // to restore, do it.
+./scheduler.cc:        currentThread->space->RestoreState();
+./system.cc:    currentThread->setStatus(RUNNING);
+./thread.cc:       ppid = currentThread->GetPID();
+./thread.cc:       currentThread->RegisterNewChild (pid);
+./thread.cc:static void ThreadFinish()    { currentThread->Finish(); }
